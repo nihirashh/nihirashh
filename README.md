@@ -57,6 +57,8 @@ nihira = {
 |---|---|---|
 | 🤖 [Resume Parser AI](https://github.com/nihirashh/resume-parser-ai) | AI-powered resume parser using NLP to extract & organize candidate info | Python, NLP |
 | 🌐 [Translator App AI](https://github.com/nihirashh/translator-app-ai) | Real-time language translation web app | Flask, CSS, AI APIs |
+| 🧩 [Extension Generator](https://github.com/Nikita497645/Extension-Generator) | Team project — AI tool that generates Chrome extension files from a simple idea | React, Node.js, Gemini API |
+| 🏗️ [AI Resume Architect](https://github.com/Nikita497645/AI-Resume-Architect) | Team project *(ongoing)* — ATS-friendly resume builder with live preview & PDF export | React, Node.js, Tailwind |
 
 ---
 
