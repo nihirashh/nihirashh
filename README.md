@@ -15,13 +15,14 @@
 ## 👩‍💻 About Me
 
 <sub>
-🎓 Degree: B.Tech Electronics & Communication Engineering (3rd Year)<br>
+🎓 **Degree**: B.Tech Electronics & Communication Engineering (3rd Year)<br>
 💡 Interests: Artificial Intelligence · Web Development · Open Source<br>
 💼 Currently: Web Dev Intern @ Zaalima | Open Source Dev @ GirlScript Summer of Code<br>
 🔍 Looking for: Internships in AI/ML · Frontend · Full Stack<br>
 📚 Learning: Python · Machine Learning · React · JavaScript<br>
 ⚡ Fun fact: I debug hardware with software logic 🔌💻
 </sub>
+
 ---
 
 ## 🛠️ Tech Stack
