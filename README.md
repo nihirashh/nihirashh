@@ -14,16 +14,12 @@
 
 ## 👩‍💻 About Me
 
-```python
-nihira = {
-    "degree"   : "B.Tech Electronics & Communication Engineering (3rd Year)",
-    "interests": ["Artificial Intelligence", "Web Development", "Open Source"],
-    "currently": "Web Dev Intern @ Zaalima | Open Source Dev @ GirlScript Summer of Code",
-    "looking"  : "Internships in AI/ML · Frontend · Full Stack",
-    "learning" : ["Python", "Machine Learning", "React", "JavaScript"],
-    "fun_fact" : "I debug hardware with software logic 🔌💻"
-}
-```
+🎓 **Degree:** B.Tech Electronics & Communication Engineering (3rd Year)
+💡 **Interests:** Artificial Intelligence · Web Development · Open Source
+💼 **Currently:** Web Dev Intern @ Zaalima | Open Source Dev @ GirlScript Summer of Code
+🔍 **Looking for:** Internships in AI/ML · Frontend · Full Stack
+📚 **Learning:** Python · Machine Learning · React · JavaScript
+⚡ **Fun fact:** I debug hardware with software logic 🔌💻
 
 ---
 
