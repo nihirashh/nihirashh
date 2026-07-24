@@ -17,8 +17,8 @@
 <sub>
 🎓 DEGREE: B.Tech Electronics & Communication Engineering (3rd Year)<br>
 💡 INTERESTS: Artificial Intelligence · Web Development · Open Source<br>
-💼 CURRENTLY: Web Dev Intern @ Zaalima | Open Source Dev @ GirlScript Summer of Code<br>
-🔍 LOOKING FOR: Internships in AI/ML · Frontend · Full Stack<br>
+💼 CURRENTLY: Open Source Dev @ GirlScript Summer of Code<br>
+🔍 LOOKING FOR: Internships in AI/ML · Frontend · Full Stack · Web Development<br>
 📚 LEARNING: Python · Machine Learning · React · JavaScript<br>
 ⚡ FUN FACT: I debug hardware with software logic 🔌💻
 </sub>
@@ -63,7 +63,7 @@
 ## 💼 Experience
 
 - 🟢 **Open Source Developer** — GirlScript Summer of Code *(May 2026 – Present)*
-- 🔵 **Web Development Intern** — Zaalima Development Pvt. Ltd *(Apr 2026 – Present)*
+- 🔵 **Web Development Intern** — Zaalima Development Pvt. Ltd *(Apr 2026 – June 2026)*
 - 🟣 **Artificial Intelligence Intern** — Pinnacle Labs *(Mar 2026 – Apr 2026)*
 
 ---
